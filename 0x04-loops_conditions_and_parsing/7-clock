@@ -3,16 +3,16 @@
 #display hours from 0 to 12
 #display minutes from 1 to 59
 
-time=0
+hour=0
 
-while [ $time -le 12 ]
+while [ $hour -le 12 ]
 do
-  echo "Time: $time"
+  echo "Hour: $hour"
   min=1
   while [ $min -le 59 ]
   do
     echo "$min"
     (( min++ ))
   done
-  (( time++ ))
+  (( hour++ ))
 done
