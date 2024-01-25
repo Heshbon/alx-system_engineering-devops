@@ -2,10 +2,10 @@
 #A Bash script that displays "Best School" 10 times using while loop.
 
 
-n=0
+count=0
 
-while [ $n -lt 10 ]
+while [ $count -lt 10 ]
 do
   echo "Best School"
-  (( n++ ))
+  (( count++ ))
 done
