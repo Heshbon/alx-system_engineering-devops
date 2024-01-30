@@ -25,7 +25,9 @@ Tasks
 
     5-beginning_and_end.rb
 
-       5-beginning_and_end.rb: Ruby script that matches a regular expression starting with h and ending with n with any single character in between.
+       5-beginning_and_end.rb: Ruby script that matches a regular expression starting with h and ending with n with any single
+
+character in between.
 
     6-phone_number.rb
 
