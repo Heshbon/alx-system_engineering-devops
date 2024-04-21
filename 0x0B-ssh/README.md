@@ -6,15 +6,15 @@ In this project, I became familiar connecting to and working with servers using 
 
 # 0. Use a private key
 
-  + <u>[0-use_a_private_key]()</u>: Bash script that uses ssh to connect to your server using the private key ~/.ssh/school with the user ubuntu.
+  + <u>[0-use_a_private_key](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x0B-ssh/0-use_a_private_key)</u>: Bash script that uses ssh to connect to your server using the private key ~/.ssh/school with the user ubuntu.
 
 # 1. Create an SSH key pair
 
-  + <u>[1-create_ssh_key_pair]()</u>: Bash script that creates an RSA key pair.
+  + <u>[1-create_ssh_key_pair](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x0B-ssh/1-create_ssh_key_pair)</u>: Bash script that creates an RSA key pair.
 
 # 2. Client configuration file
 
-  + <u>[2-ssh_config]()</u>: SSH configuration file for the local SSH client.
+  + <u>[2-ssh_config](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x0B-ssh/2-ssh_config)</u>: SSH configuration file for the local SSH client.
 
 	+ SSH client configuration must be configured to use the private key ~/.ssh/school.
 
