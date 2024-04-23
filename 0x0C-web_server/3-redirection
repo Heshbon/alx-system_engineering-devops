@@ -11,10 +11,10 @@ sudo apt-get update -y -qq && \
 
 echo -e "\nSetting up some minor stuff.\n"
 
-# starting nginx service
-sudo service nginx start
+# Start nginx service
+sudo service apache2 start
 
-# allowing nginx on firewall
+# Allow nginx on firewall
 sudo ufw allow 'Nginx HTTP'
 
 # Give the user ownership to website files for easy editing
@@ -30,7 +30,7 @@ echo -e "Hello World!" > /var/www/html/index.nginx-debian.html
 # Setting up /redirect_me to a youtube video
 sudo sed -i '24i\       rewrite ^/redirect_me https://www.youtube.com/watch?v=QH2-TGUlwu4 permanent;' /etc/nginx/sites-available/default
 
-# Restarting nginx
-sudo service nginx restart
+# Restarting apache2
+sudo service apache2 restart
 
 echo -e "\nCompleted.\n"
