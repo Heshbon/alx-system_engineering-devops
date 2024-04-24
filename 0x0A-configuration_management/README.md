@@ -12,4 +12,4 @@ In this project, I became acquainted with Puppet as a configuration management t
 
 # 2. Execute a command
 
-  + <u>[2-execute_a_command.pp]</u>: Puppet manifest file that kills the process killmenow.
+  + <u>[2-execute_a_command.pp]()</u>: Puppet manifest file that kills the process killmenow.
