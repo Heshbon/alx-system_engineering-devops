@@ -4,12 +4,12 @@ In this project, I became acquainted with Puppet as a configuration management t
 
 # 0. Create a file
 
-  + <u>[0-create_a_file.pp]()</u>: Puppet manifest file that creates a file school in the /tmp directory.
+  + <u>[0-create_a_file.pp](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x0A-configuration_management/0-create_a_file.pp)</u>: Puppet manifest file that creates a file school in the /tmp directory.
 
 # 1. Install a package\
 
-  + <u>[1-install_a_package.pp]()</u>: Puppet manifest that install flask from pip3 v 2.1.0.
+  + <u>[1-install_a_package.pp](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x0A-configuration_management/1-install_a_package.pp)</u>: Puppet manifest that install flask from pip3 v 2.1.0.
 
 # 2. Execute a command
 
-  + <u>[2-execute_a_command.pp]()</u>: Puppet manifest file that kills the process killmenow.
+  + <u>[2-execute_a_command.pp](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x0A-configuration_management/2-execute_a_command.pp)</u>: Puppet manifest file that kills the process killmenow.
