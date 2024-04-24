@@ -6,7 +6,7 @@ In this project, I became acquainted with Puppet as a configuration management t
 
   + <u>[0-create_a_file.pp](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x0A-configuration_management/0-create_a_file.pp)</u>: Puppet manifest file that creates a file school in the /tmp directory.
 
-# 1. Install a package\
+# 1. Install a package
 
   + <u>[1-install_a_package.pp](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x0A-configuration_management/1-install_a_package.pp)</u>: Puppet manifest that install flask from pip3 v 2.1.0.
 
