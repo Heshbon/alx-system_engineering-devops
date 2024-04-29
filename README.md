@@ -22,6 +22,12 @@ This repository contains programs written for the system engineering and DevOps 
 
   + <u>[0x0B-ssh](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x0B-ssh)</u>
 
+  + <u>[0x0C-web_server](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x0C-web_server(</u>
+
+  + <u>[0x0D-web_stack_debugging_0](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x0D-web_stack_debugging_0)</u>
+
+  + <u>[0x0F-load_balancer](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x0F-load_balancer)</u>
+
 
 # Author ✒️
 
