@@ -6,7 +6,7 @@ In this task, I continued on developing the web server configuration that was st
 
 # 0. Double the number of webservers
 
-  + <u>[0-custom_http_response_header]()</u>: Bash script that configure Nginx so that its HTTP response contains a custom header (on web-01 and web-02).
+  + <u>[0-custom_http_response_header](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x0F-load_balancer/0-custom_http_response_header)</u>: Bash script that configure Nginx so that its HTTP response contains a custom header (on web-01 and web-02).
 
 	- The name of the custom HTTP header must be X-Served-By.
 
@@ -14,7 +14,7 @@ In this task, I continued on developing the web server configuration that was st
 
 # 1. Install your load balancer
 
-  + <u>[1-install_load_balancer]()</u>: Bash script that install and configure HAproxy on the lb-01 server.
+  + <u>[1-install_load_balancer](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x0F-load_balancer/1-install_load_balancer)</u>: Bash script that install and configure HAproxy on the lb-01 server.
 
     - Requests are distributed using roundrobin algorithm.
 
