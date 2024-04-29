@@ -31,5 +31,4 @@ This repository contains programs written for the system engineering and DevOps 
 
 # Author ✒️
 
-  + <u>[Hesbon Kipchirchir](https://github.com/Heshbon)</u>
-
+  + Hesbon Kipchirchir <u>[Heshbon](https://github.com/Heshbon)</u>
