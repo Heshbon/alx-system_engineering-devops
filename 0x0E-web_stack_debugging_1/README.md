@@ -4,4 +4,4 @@ In this web stack debugging project, I was tasked with diagnosing and fixing the
 
 # Tasks 📃
 
-  + <u>[0-nginx_likes_port_80]()</u>: Bash script that configures Nginx to run and listen on port 80 of all the server's active IPv4 IPs.:wq
+  + <u>[0-nginx_likes_port_80](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x0E-web_stack_debugging_1/0-nginx_likes_port_80)</u>: Bash script that configures Nginx to run and listen on port 80 of all the server's active IPv4 IPs.:wq
