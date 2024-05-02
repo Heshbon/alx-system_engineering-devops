@@ -20,6 +20,8 @@ This repository contains programs written for the system engineering and DevOps 
 
   + <u>[0x08. Networking basics #1](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x08-networking_basics_2)</u>
 
+  + <u>[0x0A-configuration_management](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x0A-configuration_management)</u>
+
   + <u>[0x0B-ssh](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x0B-ssh)</u>
 
   + <u>[0x0C-web_server](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x0C-web_server)</u>
@@ -29,6 +31,8 @@ This repository contains programs written for the system engineering and DevOps 
   + <u>[0x0E-web_stack_debugging_1](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x0E-web_stack_debugging_1)</u>
 
   + <u>[0x0F-load_balancer](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x0F-load_balancer)</u>
+
+  + <u>[0x10-https_ssl](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x10-https_ssl)</u>
 
 
 # Author ✒️
