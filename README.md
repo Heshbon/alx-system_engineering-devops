@@ -36,6 +36,8 @@ This repository contains programs written for the system engineering and DevOps 
 
   + <u>[0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter)</u>
 
+  + <U>[0x12-web_stack_debugging_2](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x12-web_stack_debugging_2)</u>
+
   + <u>[0x13-firewall](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x13-firewall)</u>
 
 
