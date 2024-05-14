@@ -40,6 +40,8 @@ This repository contains programs written for the system engineering and DevOps 
 
   + <u>[0x13-firewall](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x13-firewall)</u>
 
+  + <u>[0x14-mysql](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x14-mysql)</u>
+
 
 # Author ✒️
 
