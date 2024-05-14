@@ -6,10 +6,12 @@ In this project, I worked on diagnosing and fixing broken web stacks within isol
 
 # 0. Run software as another user
 
-  + <u>[0-iamsomeoneelse]()</u>: Bash script that accepts one argument and run the whoami command under the user passed as an argument.
+  + <u>[0-iamsomeoneelse](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x12-web_stack_debugging_2/0-iamsomeoneelse)</u>: Bash script that accepts one argument and run the whoami command under the user passed as an argument.
 
 # 1. Run Nginx as Nginx
 
-  + <u>[1-run_nginx_as_nginx]()</u>: Bash script that configures the container so that Nginx listen all active IPs on port 8080.
+  + <u>[1-run_nginx_as_nginx](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x12-web_stack_debugging_2/1-run_nginx_as_nginx)</u>: Bash script that configures the container so that Nginx listen all active IPs on port 8080.
 
-# 
+# 2. 7 lines or less
+
+  + <u>[100-fix_in_7_lines_or_less](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x12-web_stack_debugging_2/100-fix_in_7_lines_or_less)</u>: Bash script that configures the container so that Nginx listen all active IPs on port 8080 
