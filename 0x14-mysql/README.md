@@ -6,13 +6,13 @@ This project revolves around understanding database management, replication, and
 
 # 4. Setup a Primary-Replica infrastructure using MySQL
 
-  + <u>[4-mysql_configuration_primary]()</u>: The MySQL primary configuration file used to set up my first server as a primary database.
+  + <u>[4-mysql_configuration_primary](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x14-mysql/4-mysql_configuration_primary)</u>: The MySQL primary configuration file used to set up my first server as a primary database.
 
-  + <u>[4-mysql_configuration_replica]()</u>: The MySQL replica configuration file used to set up my second server as the replica database.
+  + <u>[4-mysql_configuration_replica](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x14-mysql/4-mysql_configuration_replica)</u>: The MySQL replica configuration file used to set up my second server as the replica database.
 
 # 5. MySQL backup
 
-  +  <u>[5-mysql_backup]()</u>: Bash script accepts one argument that is the password used to connect to the MySQL database.
+  +  <u>[5-mysql_backup](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x14-mysql/5-mysql_backup)</u>: Bash script accepts one argument that is the password used to connect to the MySQL database.
 
 	+ MySQL dump must contain all  MySQL databases.
 
