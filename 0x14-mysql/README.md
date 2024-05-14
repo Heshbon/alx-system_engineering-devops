@@ -14,7 +14,7 @@ This project revolves around understanding database management, replication, and
 
   +  <u>[5-mysql_backup]()</u>: Bash script accepts one argument that is the password used to connect to the MySQL database.
 
-	+ MySQL dump must contain all your MySQL databases.
+	+ MySQL dump must contain all  MySQL databases.
 
 	+ Names archived must have the format: day-month-year.tar.gz.
 
