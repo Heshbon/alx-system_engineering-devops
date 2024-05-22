@@ -7,9 +7,11 @@ import sys
 if __name__ == "__main__":
     user_id = sys.argv[1]
     url = "https://jsonplaceholder.typicode.com/"
-    user = requests.get(url + "users/{}".format(user_id)).json()
+    
+    user = requests.get(f"{url}users/{user_id}").json()
     username = user.get("username")
-    todos = requests.get(url + "todos", params={"userId": user_id}).json()
+    
+    todos = requests.get(f"{url}todos", params={"userId": user_id}).json()
 
     tasks = [{
         "task": todo.get("title"),
@@ -17,7 +19,7 @@ if __name__ == "__main__":
         "username": username
     } for todo in todos]
 
-    json_data = {user_id: tasks}
+    json_data = {str(user_id): tasks}
 
-    with open("{}.json".format(user_id), "w") as jsonfile:
+    with open(f"{user_id}.json", "w") as jsonfile:
         json.dump(json_data, jsonfile)
