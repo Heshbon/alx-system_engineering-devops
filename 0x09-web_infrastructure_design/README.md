@@ -1,0 +1,3 @@
+# Web infrastructure design
+
+This project involved designing and documenting a secure, scalable web infrastructure using DNS, web servers, application servers, load balancers, and monitoring tools. I focused on creating a robust architecture while ensuring security and high availability. Key concepts included single points of failure (SPOF), high availability clusters, HTTPS, and firewalls. The tasks required whiteboarding designs, taking screenshots, and presenting them. Despite not completing the project within the timeframe, it provided valuable learning experiences in web infrastructure design and system redundancy.
