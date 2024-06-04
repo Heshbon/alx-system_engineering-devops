@@ -6,7 +6,7 @@ In this project, I delve into advanced API usage with Python scripting, focusing
 
 # 0. How many subs?
 
-  + <u>[0-subs.py]()</u>: Python function that queries the Reddit API and returns the number of subscribers (not active users, total subscribers) for a given subreddit.
+  + <u>[0-subs.py](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x16-api_advanced/0-subs.py)</u>: Python function that queries the Reddit API and returns the number of subscribers (not active users, total subscribers) for a given subreddit.
 
   + Returns 0 if an invalid subreddit is given.
 
