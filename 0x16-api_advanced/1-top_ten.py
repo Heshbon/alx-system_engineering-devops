@@ -20,3 +20,4 @@ def top_ten(subreddit):
             print(title)
     else:
         print(None)
+
