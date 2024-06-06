@@ -12,12 +12,16 @@ In this project, I delve into advanced API usage with Python scripting, focusing
 
 # 1. Top Ten
 
-  + <u>[1-top_ten.py]()</u>: Python function that queries the Reddit API and prints the titles of the first 10 hot posts listed for a given subreddit.
+  + <u>[1-top_ten.py](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x16-api_advanced/1-top_ten.py)</u>: Python function that queries the Reddit API and prints the titles of the first 10 hot posts listed for a given subreddit.
 
   + Prints None if an invalid subreddit is given.
 
 # 2. Recurse it!
 
-  + <u>[2-recurse.py]()</u>: Python function that recursively returns a list containing the titles of all hot articles for a given subreddit.
+  + <u>[2-recurse.py](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x16-api_advanced/2-recurse.py)</u>: Python function that recursively returns a list containing the titles of all hot articles for a given subreddit.
 
   + Returns None if no results are found on the given subreddit.
+
+# 3. Count it!
+
+  + <u>[100-count.py](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x16-api_advanced/100-count.py)</u>: Python function that recursively prints a sorted count of given keywords parsed from the titles.
