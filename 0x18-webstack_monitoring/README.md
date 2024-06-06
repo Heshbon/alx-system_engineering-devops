@@ -6,4 +6,4 @@ This project invovled  understanding why monitoring is essential, the two main a
 
 # 2. Create a dashboard
 
-  + <u>[2-setup_datadog](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x18-webstack_monitoring)</u>: The dashboard with different metrics displayed in order to get a few different visualizations.
+  + <u>[2-setup_datadog](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x18-webstack_monitoring/2-setup_datadog)</u>: The dashboard with different metrics displayed in order to get a few different visualizations.
