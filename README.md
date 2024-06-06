@@ -50,6 +50,8 @@ This repository contains programs written for the system engineering and DevOps 
 
   + <u>[0x17-web_stack_debugging_3](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x17-web_stack_debugging_3)</u>
 
+  + <u>[0x18-webstack_monitoring](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x18-webstack_monitoring)</u>
+
 
 # Author ✒️
 
