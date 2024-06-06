@@ -44,6 +44,12 @@ This repository contains programs written for the system engineering and DevOps 
 
   + <u>[0x14-mysql](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x14-mysql)</u>
 
+  + <u>[0x15-api](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x15-api)</u>
+
+  + <u>[0x16-api_advanced](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x16-api_advanced)</u>
+
+  + <u>[0x17-web_stack_debugging_3](https://github.com/Heshbon/alx-system_engineering-devops/tree/master/0x17-web_stack_debugging_3)</u>
+
 
 # Author ✒️
 
