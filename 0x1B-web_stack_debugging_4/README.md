@@ -6,8 +6,8 @@ This project focuses on debugging a web server setup featuring Nginx under high 
 
 # 0. Sky is the limit, let's bring that limit higher
 
-  + <u>[0-the_sky_is_the_limit_not.pp]()</u>: Puppet file that increases the amount of traffic an Apache web server can effectively handle.
+  + <u>[0-the_sky_is_the_limit_not.pp](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x1B-web_stack_debugging_4/0-the_sky_is_the_limit_not.pp)</u>: Puppet file that increases the amount of traffic an Apache web server can effectively handle.
 
 # 1. User limit
 
-  + <u>[1-user_limit.pp]</u>: Puppet file that changes the operating system configuration so that it is possible to login with the user holberton and open a file without error.
+  + <u>[1-user_limit.pp](https://github.com/Heshbon/alx-system_engineering-devops/blob/master/0x1B-web_stack_debugging_4/1-user_limit.pp)</u>: Puppet file that changes the operating system configuration so that it is possible to login with the user holberton and open a file without error.
